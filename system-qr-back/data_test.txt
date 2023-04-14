@@ -1,0 +1,12 @@
+Data:
+warehouses
+1 OFICINA CENTRAL ADMINISTRATIVA
+2 COLEGIO LOS PIRINEOS DON BOSCO
+3 COLEGIO METROPOLITANO
+
+operation_types
+1 IN
+2 OUT
+
+user:
+crear usuario admin
